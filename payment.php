@@ -11,9 +11,9 @@ $post_data['store_passwd'] = "growb643c484a329cc@ssl";
 $post_data['total_amount'] = $amount;
 $post_data['currency'] = "BDT";
 $post_data['tran_id'] = "SSLCZ_TEST_".uniqid();
-$post_data['success_url'] = "http://localhost/CSE323_Project/home.php";
-$post_data['fail_url'] = "http://localhost/CSE323_Project/checkout.php";
-$post_data['cancel_url'] = "http://localhost/CSE323_Project/checkout.php";
+$post_data['success_url'] = "http://localhost/CSE323_E-Pharma/home.php";
+$post_data['fail_url'] = "http://localhost/CSE323_E-Pharma/checkout.php";
+$post_data['cancel_url'] = "http://localhost/CSE323_E-Pharma/checkout.php";
 # $post_data['multi_card_name'] = "mastercard,visacard,amexcard";  # DISABLE TO DISPLAY ALL AVAILABLE
 
 # EMI INFO
